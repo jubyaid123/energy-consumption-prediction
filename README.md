@@ -16,6 +16,8 @@ Before running the project, you need to install the necessary Python packages. Y
    pip install tensorflow
 2. **pandas**:
    ```bash
-  pip install pandas
-
+   pip install pandas
+3. Scikit-learn, SciPy, Matplotlib:
+   ```bash
+   pip install -U scikit-learn scipy matplotlib
 
