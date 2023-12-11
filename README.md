@@ -7,5 +7,15 @@ You can see the results of these predictions in the image below:
 
 The model performs well in predicting the energy output during weekdays. However, it faces some challenges in predicting for weekends or holidays. This is primarily due to the reduced usage of parking meters during these periods, which leads to lower energy consumption. This variance presents an interesting aspect of the model's performance in different scenarios.
 
+## Installation
+
+Before running the project, you need to install the necessary Python packages. You can do this using `pip`, the Python package installer. Here are the steps to set up your environment:
+
+1. **TensorFlow**: 
+   ```bash
+   pip install tensorflow
+2. **pandas**:
+   ```bash
+  pip install pandas
 
 
